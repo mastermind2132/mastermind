@@ -6,4 +6,4 @@ Student ID-1892781
 life is really simple but we insist on making it complicated.
 Name- Raman Kumar Verma
 Student ID-1892847
-life is bed of roses.
+life is not a bed of roses.
